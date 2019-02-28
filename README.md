@@ -2,7 +2,7 @@
 
 An alphabetical listing of (mostly) appSec-related acronyms, initialisms, and abbreviations.  Intended to help make sense out of the alphabet soup of AppSec adn InfoSec abbreviations and geek speak in general.  All have a Google link to the term to help get started with additional detail and meaning. In some cases, a brief explanation is provided.
 
-| [A](#a) | [B](#b) | [C](#c) | D(#d) | E | F
+| [A](#a) | [B](#b) | [C](#c) | [D](#d) | E | F
 | G | H | I | J | K | L
 | M | N | O | P | Q | R
 | S | T | U | V | W | X
