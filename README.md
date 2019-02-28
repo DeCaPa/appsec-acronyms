@@ -2,7 +2,7 @@
 
 An alphabetical listing of (mostly) appSec-related acronyms, initialisms, and abbreviations.  Intended to help make sense out of the alphabet soup of AppSec adn InfoSec abbreviations and geek speak in general.  All have a Google link to the term to help get started with additional detail and meaning. In some cases, a brief explanation is provided.
 
-| [A](#a) | [B](#b) | [C](#c) | D | E | F
+| [A](#a) | [B](#b) | [C](#c) | D(#d) | E | F
 | G | H | I | J | K | L
 | M | N | O | P | Q | R
 | S | T | U | V | W | X
@@ -38,12 +38,16 @@ An alphabetical listing of (mostly) appSec-related acronyms, initialisms, and ab
 - [CVSS](https://www.google.com/search?q=CVSS+-+Common+Vulnerability+Scoring+System)  - Common Vulnerability Scoring System
 - [CSA](https://www.google.com/search?q=CSA+-+Cloud+Security+Alliance)  - Cloud Security Alliance
 
-## D
-DAP - Database Audit and Protection
-DAST - Dynamic Application Security Testing
-DFIR - Digital Forensics and Incident Response
+<a name="d"></a>
+
+## D 
+
+- [DAP](https://www.google.com/search?q=DAP+Database+Audit+and+Protection&oq=DAP+Database+Audit+and+Protection) - Database Audit and Protection
+- [DAST](https://www.google.com/search?q=DAST+-+Dynamic+Application+Security+Testing&oq=DAST+-+Dynamic+Application+Security+Testing) - Dynamic Application Security Testing
+- [DFIR](https://www.google.com/search?q=DFIR+-+Digital+Forensics+and+Incident+Response&oq=DFIR+-+Digital+Forensics+and+Incident+Response) - Digital Forensics and Incident Response
 Dox / Doxxing - researching and publishing private or identifiable information about a person or org with malicious intent.
 DSS - Data Security Standards
+
 ## E
 ESAPI - OWASP Enterprise Security API
 ## F
