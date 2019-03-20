@@ -6,13 +6,13 @@ An alphabetical listing of (mostly) appSec-related acronyms, initialisms, and ab
 | [G](#G) | [H](#H) | [I](#I) | J | K | L
 | [M](#M) | [N](#N) | [O](#O) | [P](#P) | [Q](#Q) | [R](#R)
 | [S](#S) | T | [U](#U) | V | [W](#W) | [X](#X)
-| Y | Z |
+| Y | Z | 
 
 ## A
 
 - [AST](https://www.google.com/search?q=AST+-+Application+Security+Testing) - Application Security Testing
-- AOC - Attestation Of Compliance
-- ARIN - American Registry for Internet Numbers
+- [AOC](https://www.google.com/search?q=aoc+-+attestationof+compliance) - Attestation Of Compliance
+- [ARIN](https://www.google.com/search?q=arin+-+american+registry+for+internet+numbers) - American Registry for Internet Numbers
 - [AVC](https://www.google.com/search?q=AST+-+Application+Vulnerability+Correlation) - Application Vulnerability Correlation
 
 ## B
@@ -22,34 +22,35 @@ An alphabetical listing of (mostly) appSec-related acronyms, initialisms, and ab
 ## C
 
 - [CAI](https://www.google.com/search?q=CAI+-+Consensus+Assessments+Initiative)  - Consensus Assessments Initiative
+- [CARTA](https://www.google.com/search?q=CARTA+-+Continuous+Adaptive+Risk+and+Trust+Assessment) - Continuous Adaptive Risk and Trust Assessment
 - [CCM](https://www.google.com/search?q=CCM+-+Cloud+Controls+Matrix)  - Cloud Controls Matrix
-- CCPA - California Consumer Privacy Act
+- [CCPA](https://www.google.com/search?q=CCPA+-+California+Consumer+Privacy+Act) - California Consumer Privacy Act
 - [CFAA](https://www.google.com/search?q=CFFA+-+Computer+Fraud+and+Abuse+Act)  - Computer Fraud and Abuse Act
 - [CHD](https://www.google.com/search?q=CHD+-+Card+Holder+Data)  - Card Holder Data
 - [CIA](https://www.google.com/search?q=CIA+-+Confidentiality+Integrity+Availability)  - Confidentiality, Integrity, Availability 
 - [CIC](https://www.google.com/search?q=CIS+-+Center+for+Internet+Control)  - Center for Internet Control - policy
 - [CIS](https://www.google.com/search?q=CIS+-+Center+for+Internet+Security)  - Center for Internet Security - develops CIS Benchmarks. 
 - [CLASP](https://www.google.com/search?q=CLASP+-+Comprehensive+Lightweight+Application+Security+Process)  - Comprehensive, Lightweight Application Security Process
-- CRLF - Carriage Return (ASCII 13, \r), Line Feed (ASCII 10, \n)
+- [CRLF](https://www.google.com/search?q=CRLF+-+Carriage+Return+(ASCII+13%2C+%5Cr)%2C+Line+Feed+(ASCII+10%2C+%5Cn)) - Carriage Return (ASCII 13, \r), Line Feed (ASCII 10, \n)
 - [CSA](https://www.google.com/search?q=CSA+-+Cloud+Security+Alliance)  - Cloud Security Alliance
 - [CSRF](https://www.google.com/search?q=CSRF+-+Cross+Site+Request+Forgery)  - Cross Site Request Forgery. Pronounced "see serf"
 - [CTP](https://www.google.com/search?q=CTP+-+Comprehensive+Lightweight+Application+Security+Process) - Cloud Trust Protocol
 - [CVE](https://www.google.com/search?q=CVE+-+Mitres+Common+Vulnerability+Exposures)  - Mitres Common Vulnerability Exposures - for known vulnerabilities of systems, not the underlying flaw
 - [CVSS](https://www.google.com/search?q=CVSS+-+Common+Vulnerability+Scoring+System)  - Common Vulnerability Scoring System
-- CWE - Common Weakness Enumeration - Mitre - has to do with the vulnerability, not the finding in the system.
+- [CWE](https://www.google.com/search?q=CWE+-+Common+Weakness+Enumeration) - Common Weakness Enumeration - Mitre - has to do with the vulnerability, not the finding in the system.
 
 ## D
 
 - [DAP](https://www.google.com/search?q=DAP+Database+Audit+and+Protection&oq=DAP+Database+Audit+and+Protection) - Database Audit and Protection
 - [DAST](https://www.google.com/search?q=DAST+-+Dynamic+Application+Security+Testing&oq=DAST+-+Dynamic+Application+Security+Testing) - Dynamic Application Security Testing
 - [DFIR](https://www.google.com/search?q=DFIR+-+Digital+Forensics+and+Incident+Response&oq=DFIR+-+Digital+Forensics+and+Incident+Response) - Digital Forensics and Incident Response
-Dox / Doxxing - researching and publishing private or identifiable information about a person or org with malicious intent.
-DSS - Data Security Standards
+- [Dox / Doxxing](https://www.google.com/search?q=dox+doxxing+definition) - researching and publishing private or identifiable information about a person or org with malicious intent.
+- [DSS](https://www.google.com/search?q=DSS+-+Data+Security+Standards) - Data Security Standards
 
 ## E
 
-- ERM - Executive Risk Management.  Used in the context of reporting.
-- ESAPI - OWASP Enterprise Security API
+- [ERM](https://www.google.com/search?q=ERM+-+Enterprise+Risk+Management) - Enterprise Risk Management.  Used in the context of reporting.
+- [ESAPI](https://www.google.com/search?q=ESAPI+-+OWASP+Enterprise+Security+API) - OWASP Enterprise Security API
 
 ## F
 
