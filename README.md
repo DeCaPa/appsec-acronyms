@@ -1,12 +1,15 @@
 # appsec-acronyms
 
-An alphabetical listing of (mostly) appSec-related acronyms, initialisms, and abbreviations.  Intended to help make sense out of the alphabet soup of AppSec & InfoSec abbreviations, and geek speak in general.  Each has a Google link to the term to help get started with additional detail and meaning. In some cases, a brief explanation is provided.
+An alphabetical listing of (mostly) appSec-related acronyms, initialisms, and abbreviations.  Intended to help make sense out of the alphabet soup of AppSec & InfoSec abbreviations, and geek speak in general.  Each has a Google link to the term to help get started with additional detail and meaning. In some cases, a brief explanation is provided.  
+
+I've also included an [AWS](#aws) section which may be helpful to those just getting started out using AWS
 
 | [A](#A) | [B](#B) | [C](#C) | [D](#D) | [E](#E) | [F](#F)
 | [G](#G) | [H](#H) | [I](#I) | J | K | L
 | [M](#M) | [N](#N) | [O](#O) | [P](#P) | [Q](#Q) | [R](#R)
 | [S](#S) | T | [U](#U) | V | [W](#W) | [X](#X)
 | Y | Z | 
+
 
 ## A
 
@@ -25,14 +28,17 @@ An alphabetical listing of (mostly) appSec-related acronyms, initialisms, and ab
 - [CARTA](https://www.google.com/search?q=CARTA+-+Continuous+Adaptive+Risk+and+Trust+Assessment) - Continuous Adaptive Risk and Trust Assessment
 - [CCM](https://www.google.com/search?q=CCM+-+Cloud+Controls+Matrix)  - Cloud Controls Matrix
 - [CCPA](https://www.google.com/search?q=CCPA+-+California+Consumer+Privacy+Act) - California Consumer Privacy Act
+- CDN - Content Delivery Network
 - [CFAA](https://www.google.com/search?q=CFFA+-+Computer+Fraud+and+Abuse+Act)  - Computer Fraud and Abuse Act
 - [CHD](https://www.google.com/search?q=CHD+-+Card+Holder+Data)  - Card Holder Data
 - [CIA](https://www.google.com/search?q=CIA+-+Confidentiality+Integrity+Availability)  - Confidentiality, Integrity, Availability 
 - [CIC](https://www.google.com/search?q=CIS+-+Center+for+Internet+Control)  - Center for Internet Control - policy
 - [CIS](https://www.google.com/search?q=CIS+-+Center+for+Internet+Security)  - Center for Internet Security - develops CIS Benchmarks. 
 - [CLASP](https://www.google.com/search?q=CLASP+-+Comprehensive+Lightweight+Application+Security+Process)  - Comprehensive, Lightweight Application Security Process
+- CORS - Cross-Origin Resource Sharing
 - [CRLF](https://www.google.com/search?q=CRLF+-+Carriage+Return+(ASCII+13%2C+%5Cr)%2C+Line+Feed+(ASCII+10%2C+%5Cn)) - Carriage Return (ASCII 13, \r), Line Feed (ASCII 10, \n)
 - [CSA](https://www.google.com/search?q=CSA+-+Cloud+Security+Alliance)  - Cloud Security Alliance
+- CSF - CyberSecurity Framework
 - [CSRF](https://www.google.com/search?q=CSRF+-+Cross+Site+Request+Forgery)  - Cross Site Request Forgery. Pronounced "see serf"
 - [CTP](https://www.google.com/search?q=CTP+-+Comprehensive+Lightweight+Application+Security+Process) - Cloud Trust Protocol
 - [CVE](https://www.google.com/search?q=CVE+-+Mitres+Common+Vulnerability+Exposures)  - Mitres Common Vulnerability Exposures - for known vulnerabilities of systems, not the underlying flaw
@@ -58,6 +64,7 @@ An alphabetical listing of (mostly) appSec-related acronyms, initialisms, and ab
 - FIM - File Integrity Monitoring
 - FISMA - Federal Info Security Management Act
 - FIPS - Federal Information Processing Standards
+- FSA - financial statement attestation -  similar  to ITGC
 - Fuzzing - finding bugs using malformed data injection in an automated fashion. It is used to crash running programs, or implement buffer overflow scenarios
 
 ## G
@@ -84,6 +91,8 @@ An alphabetical listing of (mostly) appSec-related acronyms, initialisms, and ab
 
 ## N
 
+- NMAP - scan 
+- NIST - National Institute of Standards and Technology 
 - NVD - National Vulnerability Database - for known vulnerabilities
 
 ## O
@@ -115,6 +124,7 @@ An alphabetical listing of (mostly) appSec-related acronyms, initialisms, and ab
 - SAST - Static Application Security Testing
 - SCA - Software Composition Analysis - analysis of open source, 3rd party components. - only reports publicly known vulnerabilities. Doesn't scan the code.
 - SCIM - pronounced "SKIM",  System for Cross-domain Identity Management
+- SIRS - Security Incident Response Servcies
 - SIEM - Security Info & Event Mmanagement
 - SSC - Security Standards Council
 - SSCM - Secure Software Configuration Management
@@ -138,43 +148,20 @@ An alphabetical listing of (mostly) appSec-related acronyms, initialisms, and ab
 
 
 
+## AWS
 
-
-New ones: 
-NMAP - scan ???????
-CDN - Content Delivery Network 
-CORS - Cross-Origin Resource Sharing - Cross-origin resource sharing
-SIRS - Security Incident Response Servcies
-
-FSA - financial statement attestation -  similar  to ITGC
-AWS:
-ALB - Application Load Balancer for EC2 instances
-EFS - Elastic File System 
-CloudFormation - 
-CloudTrail - logging of calls to AWS api's
-CloudWatch - monitoring of the aws resources and the applications you run.  Set alarms and react to changes in resources
-SNS - simple notification service - pub/sub messaging
-SES - simple email service 
-SQS - simple queue service - message queuing service
-Redshift - Data Warehouse
-RDS - releational database service
-ELB - Elastic Load Balancer
-VPC Flow Logs - allow you to capture ip traffic from/to network interfaces in your VPC
-
-
-
-
-
- - 
-
-
-
- 
-
-
-
-
-
+- ALB - Application Load Balancer for EC2 instances
+- CloudFormation - 
+- CloudTrail - logging of calls to AWS api's
+- CloudWatch - monitoring of the aws resources and the applications you run.  Set alarms and react to changes in resources
+- EFS - Elastic File System 
+- ELB - Elastic Load Balancer
+- Redshift - Data Warehouse
+- RDS - releational database service
+- SES - simple email service 
+- SNS - simple notification service - pub/sub messaging
+- SQS - simple queue service - message queuing service
+- VPC Flow Logs - allow you to capture ip traffic from/to network interfaces in your VPC
 
 ## Contributing
 Pull requests are welcome. For change in direction, please open an issue first to discuss what you would like to do.
