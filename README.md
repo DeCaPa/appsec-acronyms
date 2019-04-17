@@ -50,6 +50,7 @@ I've also included an [AWS](#aws) section which may be helpful to those just get
 - [DAP](https://www.google.com/search?q=DAP+Database+Audit+and+Protection&oq=DAP+Database+Audit+and+Protection) - Database Audit and Protection
 - [DAST](https://www.google.com/search?q=DAST+-+Dynamic+Application+Security+Testing&oq=DAST+-+Dynamic+Application+Security+Testing) - Dynamic Application Security Testing
 - [DFIR](https://www.google.com/search?q=DFIR+-+Digital+Forensics+and+Incident+Response&oq=DFIR+-+Digital+Forensics+and+Incident+Response) - Digital Forensics and Incident Response
+- DLP - Data Loss Prevention
 - [Dox / Doxxing](https://www.google.com/search?q=dox+doxxing+definition) - researching and publishing private or identifiable information about a person or org with malicious intent.
 - [DSS](https://www.google.com/search?q=DSS+-+Data+Security+Standards) - Data Security Standards
 
@@ -105,6 +106,7 @@ I've also included an [AWS](#aws) section which may be helpful to those just get
 - PA-DSS - Processing Applications DSS
 - PAN - Primary Account Number
 - PCI - Payment Card Industry
+- PRNG - Pseudo-Random Number Generator
 - PSD2 - The second Payment Services Directive
 
 ## Q
@@ -160,6 +162,7 @@ I've also included an [AWS](#aws) section which may be helpful to those just get
 - RDS - releational database service
 - SES - simple email service 
 - SNS - simple notification service - pub/sub messaging
+- SOAR - Security Orchestration, Automation, and Response
 - SQS - simple queue service - message queuing service
 - VPC Flow Logs - allow you to capture ip traffic from/to network interfaces in your VPC
 
