@@ -1,8 +1,8 @@
 # appsec-acronyms
 
-An alphabetical listing of (mostly) appSec-related acronyms, initialisms, and abbreviations.  Intended to help make sense out of the alphabet soup of AppSec & InfoSec abbreviations, and geek speak in general.  Each has a Google link to the term to help get started with additional detail and meaning. In some cases, a brief explanation is provided.  
+An alphabetical listing of (mostly) appSec-related acronyms, initialisms, and abbreviations.  Intended to help make sense out of the alphabet soup of AppSec, InfoSec abbreviations, and geek speak in general.  Each has a Google link to the term to help get started with additional detail and meaning. In some cases, a brief explanation is provided.  
 
-I've also included an [AWS](#aws) section which may be helpful to those just getting started out using AWS
+I've also included an [AWS](#aws) section which may be helpful to those just getting started with AWS
 
 | [A](#A) | [B](#B) | [C](#C) | [D](#D) | [E](#E) | [F](#F)
 | [G](#G) | [H](#H) | [I](#I) | J | K | L
@@ -26,19 +26,21 @@ I've also included an [AWS](#aws) section which may be helpful to those just get
 
 - [CAI](https://www.google.com/search?q=CAI+-+Consensus+Assessments+Initiative)  - Consensus Assessments Initiative
 - [CARTA](https://www.google.com/search?q=CARTA+-+Continuous+Adaptive+Risk+and+Trust+Assessment) - Continuous Adaptive Risk and Trust Assessment
+- [CASB](https://www.google.com/search?q=CASB+-+Cloud+Access+Security+Broker) - Cloud Access Security Broker
 - [CCM](https://www.google.com/search?q=CCM+-+Cloud+Controls+Matrix)  - Cloud Controls Matrix
 - [CCPA](https://www.google.com/search?q=CCPA+-+California+Consumer+Privacy+Act) - California Consumer Privacy Act
-- CDN - Content Delivery Network
+- [CDN](https://www.google.com/search?q=content+delivery+network) - Content Delivery Network
 - [CFAA](https://www.google.com/search?q=CFFA+-+Computer+Fraud+and+Abuse+Act)  - Computer Fraud and Abuse Act
 - [CHD](https://www.google.com/search?q=CHD+-+Card+Holder+Data)  - Card Holder Data
 - [CIA](https://www.google.com/search?q=CIA+-+Confidentiality+Integrity+Availability)  - Confidentiality, Integrity, Availability 
 - [CIC](https://www.google.com/search?q=CIS+-+Center+for+Internet+Control)  - Center for Internet Control - policy
 - [CIS](https://www.google.com/search?q=CIS+-+Center+for+Internet+Security)  - Center for Internet Security - develops CIS Benchmarks. 
 - [CLASP](https://www.google.com/search?q=CLASP+-+Comprehensive+Lightweight+Application+Security+Process)  - Comprehensive, Lightweight Application Security Process
-- CORS - Cross-Origin Resource Sharing
+- [CLI](https://www.google.com/search?q=CLI+-+Command+Line+Interpreter) - Command Line Interpreter.  aka Command Language Interpreter. 
+- [CORS](https://www.google.com/search?q=cross-origin+resource+sharing) - Cross-Origin Resource Sharing
 - [CRLF](https://www.google.com/search?q=CRLF+-+Carriage+Return+(ASCII+13%2C+%5Cr)%2C+Line+Feed+(ASCII+10%2C+%5Cn)) - Carriage Return (ASCII 13, \r), Line Feed (ASCII 10, \n)
 - [CSA](https://www.google.com/search?q=CSA+-+Cloud+Security+Alliance)  - Cloud Security Alliance
-- CSF - CyberSecurity Framework
+- [CSF](https://www.google.com/search?q=cybersecurity+framework) - CyberSecurity Framework
 - [CSRF](https://www.google.com/search?q=CSRF+-+Cross+Site+Request+Forgery)  - Cross Site Request Forgery. Pronounced "see serf"
 - [CTP](https://www.google.com/search?q=CTP+-+Comprehensive+Lightweight+Application+Security+Process) - Cloud Trust Protocol
 - [CVE](https://www.google.com/search?q=CVE+-+Mitres+Common+Vulnerability+Exposures)  - Mitres Common Vulnerability Exposures - for known vulnerabilities of systems, not the underlying flaw
@@ -50,7 +52,7 @@ I've also included an [AWS](#aws) section which may be helpful to those just get
 - [DAP](https://www.google.com/search?q=DAP+Database+Audit+and+Protection&oq=DAP+Database+Audit+and+Protection) - Database Audit and Protection
 - [DAST](https://www.google.com/search?q=DAST+-+Dynamic+Application+Security+Testing&oq=DAST+-+Dynamic+Application+Security+Testing) - Dynamic Application Security Testing
 - [DFIR](https://www.google.com/search?q=DFIR+-+Digital+Forensics+and+Incident+Response&oq=DFIR+-+Digital+Forensics+and+Incident+Response) - Digital Forensics and Incident Response
-- DLP - Data Loss Prevention
+- [DLP](https://www.google.com/search?q=data+loss+prevention) - Data Loss Prevention
 - [Dox / Doxxing](https://www.google.com/search?q=dox+doxxing+definition) - researching and publishing private or identifiable information about a person or org with malicious intent.
 - [DSS](https://www.google.com/search?q=DSS+-+Data+Security+Standards) - Data Security Standards
 
@@ -61,34 +63,34 @@ I've also included an [AWS](#aws) section which may be helpful to those just get
 
 ## F
 
-- FED - Forged Email Detection
-- FIM - File Integrity Monitoring
-- FISMA - Federal Info Security Management Act
-- FIPS - Federal Information Processing Standards
-- FSA - financial statement attestation -  similar  to ITGC
-- Fuzzing - finding bugs using malformed data injection in an automated fashion. It is used to crash running programs, or implement buffer overflow scenarios
+- [FED](https://www.google.com/search?q=FED+-+Forged+Email+Detection) - Forged Email Detection
+- [FIM](https://www.google.com/search?q=FIM+-+File+Integrity+Monitoring) - File Integrity Monitoring
+- [FISMA](https://www.google.com/search?q=FISMA+-+Federal+Info+Security+Management+Act) - Federal Info Security Management Act
+- [FIPS](https://www.google.com/search?q=FIPS+-+Federal+Information+Processing+Standards) - Federal Information Processing Standards
+- [FSA](https://www.google.com/search?q=FSA+-+financial+statement+attestation) - Financial Statement Attestation -  similar  to ITGC
+- [Fuzzing](https://www.google.com/search?q=fuzzing) - finding bugs using malformed data injection in an automated fashion. It is used to crash running programs, or implement buffer overflow scenarios
 
 ## G
 
-- GDPR - General Data Protection Regulation
-- GRC - Governance Risk and Compliance
+- [GDPR](https://www.google.com/search?q=gdpr+-+general+data+protection+regulation) - General Data Protection Regulation
+- [GRC](https://www.google.com/search?q=GRC+-+Governance+Risk+and+Compliance) - Governance Risk and Compliance
 
 ## H
 
-- HIPS - Host-based Intrusion Prevention System
-- HSM - Hardware Security Modules - 
-- HSTS - Http Strict Transport Security - instructs modern browsers to disallow http connections
+- [HIPS](https://www.google.com/search?q=HIPS+-+Host-based+Intrusion+Prevention+System) - Host-based Intrusion Prevention System
+- [HSM](https://www.google.com/search?q=HSM+-+Hardware+Security+Modules) - Hardware Security Modules
+- [HSTS](https://www.google.com/search?q=HSTS+-+Http+Strict+Transport+Security) - Http Strict Transport Security - instructs modern browsers to disallow http connections
 
 ## I
 
-- IAST - Interactive Application Security Testing -  minimal human involvement, RASP agent based.  Analyzes application behavior during the testing phase using RASP and DAST as an attacker.- https://www.veracode.com/security/interactive-application-security-testing-iast
-- IDS - Intrusion Detection System
-- IOC - indicator of compromise
-- IPS - Intrusion Prevention System
+- [IAST](https://www.google.com/search?q=IAST+-+Interactive+Application+Security+Testing) - Interactive Application Security Testing -  minimal human involvement, RASP agent based.  Analyzes application behavior during the testing phase using RASP and DAST as an attacker
+- [IDS](https://www.google.com/search?q=IDS+-+Intrusion+Detection+System) - Intrusion Detection System
+- [IOC](https://www.google.com/search?q=IOC+-+Indicator+of+Compromise) - Indicator of Compromise
+- [IPS](https://www.google.com/search?q=IPS+-+Intrusion+Prevention+System) - Intrusion Prevention System
 
 ## M
 
-- MSSP - Managed Security Services Provider
+- [MSSP](https://www.google.com/search?q=MSSP+-+Managed+Security+Services+Provider) - Managed Security Services Provider
 
 ## N
 
@@ -117,6 +119,7 @@ I've also included an [AWS](#aws) section which may be helpful to those just get
 
 - RASP - Runtime Application Self Protection - detects and blocks attacks, by sanitizing inputs w/o changing code.  As a developer there isn't anything for developers to do.  
 - RCE - Remote Code Execution
+- RPA - Robotics Process Automation
 
 ## S
 
@@ -125,6 +128,7 @@ I've also included an [AWS](#aws) section which may be helpful to those just get
 - SAQ - Self Assessment Questionnaire
 - SAST - Static Application Security Testing
 - SCA - Software Composition Analysis - analysis of open source, 3rd party components. - only reports publicly known vulnerabilities. Doesn't scan the code.
+- SCAP - Security Content Automation Protocol, pronounced "ess-cap"
 - SCIM - pronounced "SKIM",  System for Cross-domain Identity Management
 - SIRS - Security Incident Response Servcies
 - SIEM - Security Info & Event Mmanagement
@@ -147,7 +151,6 @@ I've also included an [AWS](#aws) section which may be helpful to those just get
 ## X
 
 - XSS - Cross Site scripting - can lead to an attacker gaining the same ability to do anything an application user can do with a web browser.  Use output encoding and escaping properly to prevent it.
-
 
 
 ## AWS
