@@ -13,11 +13,12 @@ I've also included an [AWS](#aws) section which may be helpful to those just get
 
 ## A
 
-- [AST](https://www.google.com/search?q=AST+-+Application+Security+Testing) - Application Security Testing
 - [AOC](https://www.google.com/search?q=aoc+-+attestationof+compliance) - Attestation Of Compliance
 - [ARIN](https://www.google.com/search?q=arin+-+american+registry+for+internet+numbers) - American Registry for Internet Numbers
-- [ASVS](https://www.google.com/search?q=ASVS+-+Application+Security+Verification+Standard+(OWASP)) - Application Security Verification Standard (OWASP)
+- [AST](https://www.google.com/search?q=AST+-+Application+Security+Testing) - Application Security Testing
 - [AVC](https://www.google.com/search?q=AST+-+Application+Vulnerability+Correlation) - Application Vulnerability Correlation
+- [ASVS](https://www.google.com/search?q=ASVS+-+Application+Security+Verification+Standard+(OWASP)) - Application Security Verification Standard (OWASP)
+
 
 ## B
 
