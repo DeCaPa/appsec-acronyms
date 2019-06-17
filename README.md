@@ -16,6 +16,7 @@ I've also included an [AWS](#aws) section which may be helpful to those just get
 - [AST](https://www.google.com/search?q=AST+-+Application+Security+Testing) - Application Security Testing
 - [AOC](https://www.google.com/search?q=aoc+-+attestationof+compliance) - Attestation Of Compliance
 - [ARIN](https://www.google.com/search?q=arin+-+american+registry+for+internet+numbers) - American Registry for Internet Numbers
+- [ASVS](https://www.google.com/search?q=ASVS+-+Application+Security+Verification+Standard+(OWASP)) - Application Security Verification Standard (OWASP)
 - [AVC](https://www.google.com/search?q=AST+-+Application+Vulnerability+Correlation) - Application Vulnerability Correlation
 
 ## B
@@ -54,6 +55,7 @@ I've also included an [AWS](#aws) section which may be helpful to those just get
 - [DFIR](https://www.google.com/search?q=DFIR+-+Digital+Forensics+and+Incident+Response&oq=DFIR+-+Digital+Forensics+and+Incident+Response) - Digital Forensics and Incident Response
 - [DLP](https://www.google.com/search?q=data+loss+prevention) - Data Loss Prevention
 - [Dox / Doxxing](https://www.google.com/search?q=dox+doxxing+definition) - researching and publishing private or identifiable information about a person or org with malicious intent.
+- [DREAD] - Damage potential, Reproducibility, Exploitability, Affected Users, Discoverability
 - [DSS](https://www.google.com/search?q=DSS+-+Data+Security+Standards) - Data Security Standards
 
 ## E
@@ -94,26 +96,26 @@ I've also included an [AWS](#aws) section which may be helpful to those just get
 
 ## N
 
-- NMAP - scan 
-- NIST - National Institute of Standards and Technology 
-- NVD - National Vulnerability Database - for known vulnerabilities
+- [Nmap](https://www.google.com/search?q=nmap) - the Network Mapper - free security scanner 
+- [NIST](https://www.google.com/search?q=NIST+-+National+Institute+of+Standards+and+Technology) - National Institute of Standards and Technology ]
+- [NVD](https://www.google.com/search?q=NVD+-+National+Vulnerability+Database) - National Vulnerability Database - for known vulnerabilities
 
 ## O
 
-- OSCi -Operating System Command injection
-- OWASP - Open Web Application Security Project
+- [OSCi](https://www.google.com/search?q=OSCi+-+Operating+System+Command+injection) - Operating System Command injection]
+- [OWASP](https://www.google.com/search?q=OWASP+-+Open+Web+Application+Security+Project) - Open Web Application Security Project
 
 ## P
 
-- PA-DSS - Processing Applications DSS
-- PAN - Primary Account Number
-- PCI - Payment Card Industry
-- PRNG - Pseudo-Random Number Generator
-- PSD2 - The second Payment Services Directive
+- [PA-DSS](https://www.google.com/search?q=PA-DSS+-+Processing+Applications+DSS) - Processing Applications DSS
+- [PAN](https://www.google.com/search?q=PAN+-+Primary+Account+Number) - Primary Account Number
+- [PCI](https://www.google.com/search?q=PCI+-+Payment+Card+Industry) - Payment Card Industry
+- [PRNG](https://www.google.com/search?q=PRNG+-+Pseudo-Random+Number+Generator) - Pseudo-Random Number Generator
+- [PSD2](https://www.google.com/search?q=PSD2+-+The+second+Payment+Services+Directive) - The second Payment Services Directive
 
 ## Q
 
-- QSA - Qualified Security Accessor
+- [QSA](https://www.google.com/search?q=QSA+-+Qualified+Security+Accessor) - Qualified Security Accessor
 
 ## R
 
@@ -132,6 +134,7 @@ I've also included an [AWS](#aws) section which may be helpful to those just get
 - SCIM - pronounced "SKIM",  System for Cross-domain Identity Management
 - SIRS - Security Incident Response Servcies
 - SIEM - Security Info & Event Mmanagement
+- SRC - Security, Risk & Compliance
 - SSC - Security Standards Council
 - SSCM - Secure Software Configuration Management
 - SSRF - Server Side Request Forgery
