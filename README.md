@@ -8,8 +8,7 @@ I've also included an [AWS](#aws) section which may be helpful to those just get
 | [G](#G) | [H](#H) | [I](#I) | J | K | L
 | [M](#M) | [N](#N) | [O](#O) | [P](#P) | [Q](#Q) | [R](#R)
 | [S](#S) | T | [U](#U) | V | [W](#W) | [X](#X)
-| Y | Z | 
-
+| Y | Z |
 
 ## A
 
@@ -33,11 +32,11 @@ I've also included an [AWS](#aws) section which may be helpful to those just get
 - [CDN](https://www.google.com/search?q=content+delivery+network) - Content Delivery Network
 - [CFAA](https://www.google.com/search?q=CFFA+-+Computer+Fraud+and+Abuse+Act)  - Computer Fraud and Abuse Act
 - [CHD](https://www.google.com/search?q=CHD+-+Card+Holder+Data)  - Card Holder Data
-- [CIA](https://www.google.com/search?q=CIA+-+Confidentiality+Integrity+Availability)  - Confidentiality, Integrity, Availability 
+- [CIA](https://www.google.com/search?q=CIA+-+Confidentiality+Integrity+Availability)  - Confidentiality, Integrity, Availability
 - [CIC](https://www.google.com/search?q=CIS+-+Center+for+Internet+Control)  - Center for Internet Control - policy
-- [CIS](https://www.google.com/search?q=CIS+-+Center+for+Internet+Security)  - Center for Internet Security - develops CIS Benchmarks. 
+- [CIS](https://www.google.com/search?q=CIS+-+Center+for+Internet+Security)  - Center for Internet Security - develops CIS Benchmarks.
 - [CLASP](https://www.google.com/search?q=CLASP+-+Comprehensive+Lightweight+Application+Security+Process)  - Comprehensive, Lightweight Application Security Process
-- [CLI](https://www.google.com/search?q=CLI+-+Command+Line+Interpreter) - Command Line Interpreter.  aka Command Language Interpreter. 
+- [CLI](https://www.google.com/search?q=CLI+-+Command+Line+Interpreter) - Command Line Interpreter.  aka Command Language Interpreter.
 - [CORS](https://www.google.com/search?q=cross-origin+resource+sharing) - Cross-Origin Resource Sharing
 - [CRLF](https://www.google.com/search?q=CRLF+-+Carriage+Return+(ASCII+13%2C+%5Cr)%2C+Line+Feed+(ASCII+10%2C+%5Cn)) - Carriage Return (ASCII 13, \r), Line Feed (ASCII 10, \n)
 - [CSA](https://www.google.com/search?q=CSA+-+Cloud+Security+Alliance)  - Cloud Security Alliance
@@ -96,7 +95,7 @@ I've also included an [AWS](#aws) section which may be helpful to those just get
 
 ## N
 
-- [Nmap](https://www.google.com/search?q=nmap) - the Network Mapper - free security scanner 
+- [Nmap](https://www.google.com/search?q=nmap) - the Network Mapper - free security scanner
 - [NIST](https://www.google.com/search?q=NIST+-+National+Institute+of+Standards+and+Technology) - National Institute of Standards and Technology ]
 - [NVD](https://www.google.com/search?q=NVD+-+National+Vulnerability+Database) - National Vulnerability Database - for known vulnerabilities
 
@@ -155,26 +154,26 @@ I've also included an [AWS](#aws) section which may be helpful to those just get
 
 - XSS - Cross Site scripting - can lead to an attacker gaining the same ability to do anything an application user can do with a web browser.  Use output encoding and escaping properly to prevent it.
 
-
 ## AWS
 
 - ALB - Application Load Balancer for EC2 instances
-- CloudFormation - 
+- CloudFormation -
 - CloudTrail - logging of calls to AWS api's
 - CloudWatch - monitoring of the aws resources and the applications you run.  Set alarms and react to changes in resources
-- EFS - Elastic File System 
+- EFS - Elastic File System
 - ELB - Elastic Load Balancer
 - Redshift - Data Warehouse
 - RDS - releational database service
-- SES - simple email service 
+- SES - simple email service
 - SNS - simple notification service - pub/sub messaging
 - SOAR - Security Orchestration, Automation, and Response
 - SQS - simple queue service - message queuing service
 - VPC Flow Logs - allow you to capture ip traffic from/to network interfaces in your VPC
 
 ## Contributing
+
 Pull requests are welcome. For change in direction, please open an issue first to discuss what you would like to do.
 
-
 ## License
+
 [MIT](https://choosealicense.com/licenses/mit/)
