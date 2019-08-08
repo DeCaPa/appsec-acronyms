@@ -7,7 +7,7 @@ I've also included an [AWS](#aws) section which may be helpful to those just get
 | [A](#A) | [B](#B) | [C](#C) | [D](#D) | [E](#E) | [F](#F)
 | [G](#G) | [H](#H) | [I](#I) | J | K | L
 | [M](#M) | [N](#N) | [O](#O) | [P](#P) | [Q](#Q) | [R](#R)
-| [S](#S) | T | [U](#U) | V | [W](#W) | [X](#X)
+| [S](#S) | T | [U](#U) | [V](#V) | [W](#W) | [X](#X)
 | Y | Z |
 
 ## A
@@ -85,6 +85,7 @@ I've also included an [AWS](#aws) section which may be helpful to those just get
 ## I
 
 - [IAST](https://www.google.com/search?q=IAST+-+Interactive+Application+Security+Testing) - Interactive Application Security Testing -  minimal human involvement, RASP agent based.  Analyzes application behavior during the testing phase using RASP and DAST as an attacker
+- [IDOR](https://www.google.com/search?q=IDOR+Insecure+direct+object+reference) - Insecure Direct Object Reference
 - [IDS](https://www.google.com/search?q=IDS+-+Intrusion+Detection+System) - Intrusion Detection System
 - [IOC](https://www.google.com/search?q=IOC+-+Indicator+of+Compromise) - Indicator of Compromise
 - [IPS](https://www.google.com/search?q=IPS+-+Intrusion+Prevention+System) - Intrusion Prevention System
@@ -133,10 +134,12 @@ I've also included an [AWS](#aws) section which may be helpful to those just get
 - SCIM - pronounced "SKIM",  System for Cross-domain Identity Management
 - SIRS - Security Incident Response Servcies
 - SIEM - Security Info & Event Mmanagement
+- SOAR - security orchestration automation response
 - SRC - Security, Risk & Compliance
 - SSC - Security Standards Council
 - SSCM - Secure Software Configuration Management
 - SSRF - Server Side Request Forgery
+- STRIDE - Spoofing, Tampering, Repudiation, Information disclosure, Denial of service, Elevation of Privilege 
 - SWG - Secure Web Gateway
 
 ## U
@@ -144,10 +147,15 @@ I've also included an [AWS](#aws) section which may be helpful to those just get
 - UEBA - User and Entity Behavior Analytics
 - UTM - Unified Threat Management
 
+## V
+
+- VAST - Visual, Agile, and Simple Threat modeling
+
 ## W
 
 - WASC - Web Application Security Consortium
 - WAF - Web Application Firewall
+- WCAG - Web Content Accessibility Guidelines
 - WPL - Microsoft Web  Protection Library
 
 ## X
@@ -157,6 +165,7 @@ I've also included an [AWS](#aws) section which may be helpful to those just get
 ## AWS
 
 - ALB - Application Load Balancer for EC2 instances
+- ASFF - AWS Security Finding Format
 - CloudFormation -
 - CloudTrail - logging of calls to AWS api's
 - CloudWatch - monitoring of the aws resources and the applications you run.  Set alarms and react to changes in resources
