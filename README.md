@@ -1,6 +1,6 @@
 # appsec-acronyms
 
-An alphabetical listing of (mostly) appSec-related acronyms, initialisms, and abbreviations.  Intended to help make sense out of the alphabet soup of AppSec, InfoSec abbreviations, and geek speak in general.  Each has a Google link to the term to help get started with additional detail and meaning. In some cases, a brief explanation is provided.  
+An alphabetical listing of (mostly) appSec-related acronyms, initialisms, and abbreviations.  Intended to help make sense out of the alphabet soup of AppSec, InfoSec abbreviations, and geek speak in general.  Each has a Google link to the term to help get started with additional detail and meaning. In some cases, a brief explanation is provided.  An '*' is a pci/privacy related term.
 
 I've also included an [AWS](#aws) section which may be helpful to those just getting started with AWS
 
@@ -8,13 +8,15 @@ I've also included an [AWS](#aws) section which may be helpful to those just get
 | [G](#G) | [H](#H) | [I](#I) | J | K | L
 | [M](#M) | [N](#N) | [O](#O) | [P](#P) | [Q](#Q) | [R](#R)
 | [S](#S) | T | [U](#U) | [V](#V) | [W](#W) | [X](#X)
-| Y | Z |
+| Y | [Z](#Z) |
 
 ## A
 
 - [AOC](https://www.google.com/search?q=aoc+-+attestationof+compliance) - Attestation Of Compliance
+- [APM](https://www.google.com/search?q=apm+application+performance+monitoring) - Application Performance Monitoring
 - [ARIN](https://www.google.com/search?q=arin+-+american+registry+for+internet+numbers) - American Registry for Internet Numbers
 - [AST](https://www.google.com/search?q=AST+-+Application+Security+Testing) - Application Security Testing
+- *[ASV](https://www.google.com/search?q=ASV+-+Approved+Scanning+Vendor) - Approved Scanning Vendor
 - [ASVS](https://www.google.com/search?q=ASVS+-+Application+Security+Verification+Standard+(OWASP)) - Application Security Verification Standard (OWASP)
 - [AVC](https://www.google.com/search?q=AST+-+Application+Vulnerability+Correlation) - Application Vulnerability Correlation
 
@@ -139,7 +141,7 @@ I've also included an [AWS](#aws) section which may be helpful to those just get
 - SSC - Security Standards Council
 - SSCM - Secure Software Configuration Management
 - SSRF - Server Side Request Forgery
-- STRIDE - Spoofing, Tampering, Repudiation, Information disclosure, Denial of service, Elevation of Privilege 
+- STRIDE - Spoofing, Tampering, Repudiation, Information disclosure, Denial of service, Elevation of Privilege
 - SWG - Secure Web Gateway
 
 ## U
@@ -157,10 +159,16 @@ I've also included an [AWS](#aws) section which may be helpful to those just get
 - WAF - Web Application Firewall
 - WCAG - Web Content Accessibility Guidelines
 - WPL - Microsoft Web  Protection Library
+- [WAAP](https://www.google.com/search?q=WAAP+-+Web+Application+API+Protection) - Web Application API Protection
+- [WASC](https://www.google.com/search?q=WASC+-+Web+Application+Security+Consortium) - Web Application Security Consortium
 
 ## X
 
 - XSS - Cross Site scripting - can lead to an attacker gaining the same ability to do anything an application user can do with a web browser.  Use output encoding and escaping properly to prevent it.
+
+## Z
+
+- [ZTNA](https://www.google.com/search?q=ZTNA+-+Zero+Trust+Network+Access) - Zero Trust Network Access
 
 ## AWS
 
