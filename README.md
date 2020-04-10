@@ -27,10 +27,12 @@ I've also included an [AWS](#aws) section which may be helpful to those just get
 ## C
 
 - [CAI](https://www.google.com/search?q=CAI+-+Consensus+Assessments+Initiative)  - Consensus Assessments Initiative
+- [CAIQ](https://www.google.com/search?q=CAIQ+-+Consensus+Assessments+Initiative+Questionnaire) - Consensus Assessments Initiative Questionnaire, from the Cloud Security Alliance
 - [CARTA](https://www.google.com/search?q=CARTA+-+Continuous+Adaptive+Risk+and+Trust+Assessment) - Continuous Adaptive Risk and Trust Assessment
 - [CASB](https://www.google.com/search?q=CASB+-+Cloud+Access+Security+Broker) - Cloud Access Security Broker
 - [CCM](https://www.google.com/search?q=CCM+-+Cloud+Controls+Matrix)  - Cloud Controls Matrix
 - [CCPA](https://www.google.com/search?q=CCPA+-+California+Consumer+Privacy+Act) - California Consumer Privacy Act
+- *[CDE](https://www.google.com/search?q=CDE+-+cardholder+data+environment) - Cardholder Data Environment
 - [CDN](https://www.google.com/search?q=content+delivery+network) - Content Delivery Network
 - [CFAA](https://www.google.com/search?q=CFFA+-+Computer+Fraud+and+Abuse+Act)  - Computer Fraud and Abuse Act
 - [CHD](https://www.google.com/search?q=CHD+-+Card+Holder+Data)  - Card Holder Data
@@ -94,6 +96,7 @@ I've also included an [AWS](#aws) section which may be helpful to those just get
 
 ## M
 
+- *[MoR](https://www.google.com/search?q=Mor+-+Merchant+of+record) - Merchant of Record
 - [MSSP](https://www.google.com/search?q=MSSP+-+Managed+Security+Services+Provider) - Managed Security Services Provider
 
 ## N
@@ -134,6 +137,7 @@ I've also included an [AWS](#aws) section which may be helpful to those just get
 - SCA - Software Composition Analysis - analysis of open source, 3rd party components. - only reports publicly known vulnerabilities. Doesn't scan the code.
 - SCAP - Security Content Automation Protocol, pronounced "ess-cap"
 - SCIM - pronounced "SKIM",  System for Cross-domain Identity Management
+- SIG - Standardized Information Gathering
 - SIRS - Security Incident Response Servcies
 - SIEM - Security Info & Event Mmanagement
 - SOAR - security orchestration automation response
