@@ -7,7 +7,7 @@ I've also included an [AWS](#aws) section which may be helpful to those just get
 | [A](#A) | [B](#B) | [C](#C) | [D](#D) | [E](#E) | [F](#F)
 | [G](#G) | [H](#H) | [I](#I) | J | K | L
 | [M](#M) | [N](#N) | [O](#O) | [P](#P) | [Q](#Q) | [R](#R)
-| [S](#S) | T | [U](#U) | [V](#V) | [W](#W) | [X](#X)
+| [S](#S) | [T](#T) | [U](#U) | [V](#V) | [W](#W) | [X](#X)
 | Y | [Z](#Z) |
 
 ## A
@@ -57,6 +57,7 @@ I've also included an [AWS](#aws) section which may be helpful to those just get
 - [DAST](https://www.google.com/search?q=DAST+-+Dynamic+Application+Security+Testing&oq=DAST+-+Dynamic+Application+Security+Testing) - Dynamic Application Security Testing
 - [DFIR](https://www.google.com/search?q=DFIR+-+Digital+Forensics+and+Incident+Response&oq=DFIR+-+Digital+Forensics+and+Incident+Response) - Digital Forensics and Incident Response
 - [DLP](https://www.google.com/search?q=data+loss+prevention) - Data Loss Prevention
+- [DPA](https://www.google.com/search?q=data+processing+agreement) - Data Processing Agreement
 - [Dox / Doxxing](https://www.google.com/search?q=dox+doxxing+definition) - researching and publishing private or identifiable information about a person or org with malicious intent.
 - [DREAD] - Damage potential, Reproducibility, Exploitability, Affected Users, Discoverability
 - [DSS](https://www.google.com/search?q=DSS+-+Data+Security+Standards) - Data Security Standards
@@ -82,6 +83,7 @@ I've also included an [AWS](#aws) section which may be helpful to those just get
 
 ## H
 
+- [HIPAA](https://www.google.com/search?q=HIPAA+-+Health+Insurance+Portability+and+Accountability+Act) - Health Insurance Portability and Accountability Act
 - [HIPS](https://www.google.com/search?q=HIPS+-+Host-based+Intrusion+Prevention+System) - Host-based Intrusion Prevention System
 - [HSM](https://www.google.com/search?q=HSM+-+Hardware+Security+Modules) - Hardware Security Modules
 - [HSTS](https://www.google.com/search?q=HSTS+-+Http+Strict+Transport+Security) - Http Strict Transport Security - instructs modern browsers to disallow http connections
@@ -96,6 +98,7 @@ I've also included an [AWS](#aws) section which may be helpful to those just get
 
 ## M
 
+- *MID - Merchant ID
 - *[MoR](https://www.google.com/search?q=Mor+-+Merchant+of+record) - Merchant of Record
 - [MSSP](https://www.google.com/search?q=MSSP+-+Managed+Security+Services+Provider) - Managed Security Services Provider
 
@@ -114,7 +117,9 @@ I've also included an [AWS](#aws) section which may be helpful to those just get
 
 - [PA-DSS](https://www.google.com/search?q=PA-DSS+-+Processing+Applications+DSS) - Processing Applications DSS
 - [PAN](https://www.google.com/search?q=PAN+-+Primary+Account+Number) - Primary Account Number
+- [PAM](https://www.google.com/search?q=pam+privileged+access+management) Privileged Access Management
 - [PCI](https://www.google.com/search?q=PCI+-+Payment+Card+Industry) - Payment Card Industry
+- [PKI](https://www.google.com/search?q=PKI+-+Public+Key+Infrastructure) - Public Key Infrastructure
 - [PRNG](https://www.google.com/search?q=PRNG+-+Pseudo-Random+Number+Generator) - Pseudo-Random Number Generator
 - [PSD2](https://www.google.com/search?q=PSD2+-+The+second+Payment+Services+Directive) - The second Payment Services Directive
 
@@ -124,7 +129,7 @@ I've also included an [AWS](#aws) section which may be helpful to those just get
 
 ## R
 
-- RASP - Runtime Application Self Protection - detects and blocks attacks, by sanitizing inputs w/o changing code.  As a developer there isn't anything for developers to do.  
+- RASP - Runtime Application Self Protection - detects and blocks attacks, by sanitizing inputs w/o changing code.  
 - RCE - Remote Code Execution
 - RPA - Robotics Process Automation
 
@@ -148,14 +153,20 @@ I've also included an [AWS](#aws) section which may be helpful to those just get
 - STRIDE - Spoofing, Tampering, Repudiation, Information disclosure, Denial of service, Elevation of Privilege
 - SWG - Secure Web Gateway
 
+## T
+
+- TOPT - Time-based One-time Password algorithm
+
 ## U
 
+- UCF - Unified Compliance Framework
 - UEBA - User and Entity Behavior Analytics
 - UTM - Unified Threat Management
 
 ## V
 
 - VAST - Visual, Agile, and Simple Threat modeling
+- VDP - Vulnerability Disclosure Program
 
 ## W
 
