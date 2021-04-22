@@ -22,7 +22,8 @@ I've also included an [AWS](#aws) section which may be helpful to those just get
 
 ## B
 
-- [BSIMM](https://www.google.com/search?q=BSIMM+-+Building+Security+in+Maturity+Model) - "bee-simm" - Building Security in Maturity Model - study of existing software security initiatives.
+- [BOLA](https://www.google.com/search?q=BOLA+-+Broken+Object+Level+Authorization) - Broken Object Level Authorization
+- [BSIMM](https://www.google.com/search?q=BSIMM+-+Building+Security+in+Maturity+Model) - Pronounced "bee-simm" - Building Security in Maturity Model - study of existing software security initiatives.
 
 ## C
 
@@ -64,6 +65,7 @@ I've also included an [AWS](#aws) section which may be helpful to those just get
 
 ## E
 
+- [EDR](https://www.google.com/search?q=EDR+-+Endpoint+Detection+and+Response) - Endpoint Detection and Response
 - [ERM](https://www.google.com/search?q=ERM+-+Enterprise+Risk+Management) - Enterprise Risk Management.  Used in the context of reporting.
 - [ESAPI](https://www.google.com/search?q=ESAPI+-+OWASP+Enterprise+Security+API) - OWASP Enterprise Security API
 
@@ -98,7 +100,7 @@ I've also included an [AWS](#aws) section which may be helpful to those just get
 
 ## M
 
-- *MID - Merchant ID
+- *[MID](https://www.google.com/search?q=MID+-+Merchant+ID) - Merchant ID
 - *[MoR](https://www.google.com/search?q=Mor+-+Merchant+of+record) - Merchant of Record
 - [MSSP](https://www.google.com/search?q=MSSP+-+Managed+Security+Services+Provider) - Managed Security Services Provider
 
@@ -129,60 +131,65 @@ I've also included an [AWS](#aws) section which may be helpful to those just get
 
 ## R
 
-- RASP - Runtime Application Self Protection - detects and blocks attacks, by sanitizing inputs w/o changing code.  
-- RCE - Remote Code Execution
-- RPA - Robotics Process Automation
+- [RASP](https://www.google.com/search?q=RASP+-+Runtime+Application+Self+Protection) - Runtime Application Self Protection - detects and blocks attacks, by sanitizing inputs w/o changing code.  
+- [RCE](https://www.google.com/search?q=RCE+-+Remote+Code+Execution) - Remote Code Execution
+- [RPA](https://www.google.com/search?q=RPA+-+Robotics+Process+Automation) - Robotics Process Automation
 
 ## S
 
-- SAD - Sensitive Authentication Data
-- SAMM - Software Assurance Maturity Model - opensamm.org
-- SAQ - Self Assessment Questionnaire
-- SAST - Static Application Security Testing
-- SCA - Software Composition Analysis - analysis of open source, 3rd party components. - only reports publicly known vulnerabilities. Doesn't scan the code.
-- SCAP - Security Content Automation Protocol, pronounced "ess-cap"
-- SCIM - pronounced "SKIM",  System for Cross-domain Identity Management
-- SIG - Standardized Information Gathering
-- SIRS - Security Incident Response Servcies
-- SIEM - Security Info & Event Mmanagement
-- SOAR - security orchestration automation response
-- SRC - Security, Risk & Compliance
-- SSC - Security Standards Council
-- SSCM - Secure Software Configuration Management
-- SSRF - Server Side Request Forgery
-- STRIDE - Spoofing, Tampering, Repudiation, Information disclosure, Denial of service, Elevation of Privilege
-- SWG - Secure Web Gateway
+- [SAD](https://www.google.com/search?q=SAD+-+Sensitive+Authentication+Data) - Sensitive Authentication Data
+- [SAMM](https://www.google.com/search?q=SAMM+-+Software+Assurance+Maturity+Model) - Software Assurance Maturity Model - opensamm.org
+- *[SAQ](https://www.google.com/search?q=SAQ+-+Self+Assessment+Questionnaire) - Self Assessment Questionnaire
+- [SASE](https://www.google.com/search?q=SASE+-+Secure+Access+Service+Edge) - Pronounces "Sassy", Secure Access Service Edge
+- [SAST](https://www.google.com/search?q=SAST+-+Static+Application+Security+Testing) - Static Application Security Testing
+- [SCA](https://www.google.com/search?q=SCA+-+Software+Composition+Analysis) - Software Composition Analysis - analysis of open source, 3rd party components. - only reports publicly known vulnerabilities. Doesn't scan the code.
+- [SCAP](https://www.google.com/search?q=SCAP+-+Security+Content+Automation+Protocol) - Security Content Automation Protocol, pronounced "s-cap"
+- [SCIM](https://www.google.com/search?q=SCIM+-+System+for+Cross-domain+Identity+Management) - pronounced "SKIM",  System for Cross-domain Identity Management
+- *[SIG](https://www.google.com/search?q=SIG+-+Standardized+Information+Gathering) - Standardized Information Gathering
+- [SIRS](https://www.google.com/search?q=SIRS+-+Security+Incident+Response+Servcies) - Security Incident Response Servcies
+- [SIEM](https://www.google.com/search?q=SIEM+-+Security+Info+%26+Event+Management) - Security Info & Event Management
+- [SOAR](https://www.google.com/search?q=SOAR+-+security+orchestration+automation+response) - security orchestration automation response
+- [SRC](https://www.google.com/search?q=SRC+-+Security%2C+Risk+and+Compliance) - Security, Risk and Compliance
+- [SRI](https://www.google.com/search?q=SRI+-+SubResource+Integrity) - SubResource Integrity
+- [SSC](https://www.google.com/search?q=SSC+-+Security+Standards+Council) - Security Standards Council
+- [SSCM](https://www.google.com/search?q=SSCM+-+Secure+Software+Configuration+Management) - Secure Software Configuration Management
+- [SSRF](https://www.google.com/search?q=SSRF+-+Server+Side+Request+Forgery) - Server Side Request Forgery
+- [STRIDE](https://www.google.com/search?q=STRIDE+-+Spoofing%2C+Tampering%2C+Repudiation%2C+Information+disclosure%2C+Denial+of+service%2C+Elevation+of+Privilege) - Spoofing, Tampering, Repudiation, Information disclosure, Denial of service, Elevation of Privilege
+- [SWG](https://www.google.com/search?q=SWG+-+Secure+Web+Gateway) - Secure Web Gateway
 
 ## T
 
-- TOPT - Time-based One-time Password algorithm
+- [TOPT](https://www.google.com/search?q=TOPT+-+Time-based+One-time+Password) - Time-based One-time Password
+- [TTP](https://www.google.com/search?q=TTP+-+Tactics%2C+Techniques%2C+and+Procedures) - Tactics, Techniques, and Procedures
 
 ## U
 
-- UCF - Unified Compliance Framework
-- UEBA - User and Entity Behavior Analytics
-- UTM - Unified Threat Management
+- [UCF](https://www.google.com/search?q=UCF+-+Unified+Compliance+Framework) - Unified Compliance Framework
+- [UEBA](https://www.google.com/search?q=UEBA+-+User+and+Entity+Behavior+Analytics) - User and Entity Behavior Analytics
+- [UTM](https://www.google.com/search?q=UTM+-+Unified+Threat+Management) - Unified Threat Management
 
 ## V
 
-- VAST - Visual, Agile, and Simple Threat modeling
-- VDP - Vulnerability Disclosure Program
+- [VAST](https://www.google.com/search?q=VAST+-+Visual%2C+Agile%2C+and+Simple+Threat+modeling) - Visual, Agile, and Simple Threat modeling
+- [VDP](https://www.google.com/search?q=VDP+-+Vulnerability+Disclosure+Policy) - Vulnerability Disclosure Policy
+- [VDP](https://www.google.com/search?q=VDP+-+Vulnerability+Disclosure+Program) - Vulnerability Disclosure Program
 
 ## W
 
-- WASC - Web Application Security Consortium
-- WAF - Web Application Firewall
-- WCAG - Web Content Accessibility Guidelines
-- WPL - Microsoft Web  Protection Library
+- [WASC](https://www.google.com/search?q=WASC+-+Web+Application+Security+Consortium) - Web Application Security Consortium
+- [WAF](https://www.google.com/search?q=WAF+-+Web+Application+Firewall) - Web Application Firewall
+- [WCAG](https://www.google.com/search?q=WCAG+-+Web+Content+Accessibility+Guidelines) - Web Content Accessibility Guidelines
+- [WPL](https://www.google.com/search?q=WPL+-+Microsoft+Web+Protection+Library) - Microsoft Web Protection Library
 - [WAAP](https://www.google.com/search?q=WAAP+-+Web+Application+API+Protection) - Web Application API Protection
 - [WASC](https://www.google.com/search?q=WASC+-+Web+Application+Security+Consortium) - Web Application Security Consortium
 
 ## X
 
-- XSS - Cross Site scripting - can lead to an attacker gaining the same ability to do anything an application user can do with a web browser.  Use output encoding and escaping properly to prevent it.
+- [XSS](https://www.google.com/search?q=XSS+-+Cross+Site+scripting) - Cross Site scripting - can lead to an attacker gaining the same ability to do anything an application user can do with a web browser.  Use output encoding and escaping properly to prevent it.
 
 ## Z
 
+- [ZP] - Zero Trust
 - [ZTNA](https://www.google.com/search?q=ZTNA+-+Zero+Trust+Network+Access) - Zero Trust Network Access
 
 ## AWS
