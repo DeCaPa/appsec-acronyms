@@ -2,7 +2,7 @@
 
 An alphabetical listing of (mostly) appSec-related acronyms, initialisms, and abbreviations.  Intended to help make sense out of the alphabet soup of AppSec, InfoSec abbreviations, and geek speak in general.  Each has a Google link to the term to help get started with additional detail and meaning. In some cases, a brief explanation is provided.  An '*' is a pci/privacy related term.
 
-I've also included an [AWS](#aws) section which may be helpful to those just getting started with AWS
+I've also included an [AWS](#aws) section which may be helpful to those just getting started with AWS.
 
 | [A](#A) | [B](#B) | [C](#C) | [D](#D) | [E](#E) | [F](#F)
 | [G](#G) | [H](#H) | [I](#I) | J | K | L
