@@ -60,7 +60,7 @@ I've also included an [AWS](#aws) section which may be helpful to those just get
 - [DLP](https://www.google.com/search?q=data+loss+prevention) - Data Loss Prevention
 - [DPA](https://www.google.com/search?q=data+processing+agreement) - Data Processing Agreement
 - [Dox / Doxxing](https://www.google.com/search?q=dox+doxxing+definition) - researching and publishing private or identifiable information about a person or org with malicious intent.
-- [DREAD] - Damage potential, Reproducibility, Exploitability, Affected Users, Discoverability
+- [DREAD](https://www.google.com/search?q=DREAD+-+Damage+potential%2C+Reproducibility%2C+Exploitability%2C+Affected+Users%2C+Discoverability) - Damage potential, Reproducibility, Exploitability, Affected Users, Discoverability
 - [DSS](https://www.google.com/search?q=DSS+-+Data+Security+Standards) - Data Security Standards
 
 ## E
