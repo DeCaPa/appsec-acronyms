@@ -57,7 +57,9 @@ I've also included an [AWS](#aws) section which may be helpful to those just get
 - [DAP](https://www.google.com/search?q=DAP+Database+Audit+and+Protection&oq=DAP+Database+Audit+and+Protection) - Database Audit and Protection
 - [DAST](https://www.google.com/search?q=DAST+-+Dynamic+Application+Security+Testing&oq=DAST+-+Dynamic+Application+Security+Testing) - Dynamic Application Security Testing
 - [DFIR](https://www.google.com/search?q=DFIR+-+Digital+Forensics+and+Incident+Response&oq=DFIR+-+Digital+Forensics+and+Incident+Response) - Digital Forensics and Incident Response
+- [DKIM](https://www.google.com/search?q=dkim+domainKeys+identified+mail) - DomainKeys Identified Mail
 - [DLP](https://www.google.com/search?q=data+loss+prevention) - Data Loss Prevention
+- [DMARC](https://www.google.com/search?q=dmarc+(domain-based+message+authentication+reporting+and+conformance)) - Domain-based Message Authentication, Reporting and Conformance
 - [DPA](https://www.google.com/search?q=data+processing+agreement) - Data Processing Agreement
 - [Dox / Doxxing](https://www.google.com/search?q=dox+doxxing+definition) - researching and publishing private or identifiable information about a person or org with malicious intent.
 - [DREAD](https://www.google.com/search?q=DREAD+-+Damage+potential%2C+Reproducibility%2C+Exploitability%2C+Affected+Users%2C+Discoverability) - Damage potential, Reproducibility, Exploitability, Affected Users, Discoverability
@@ -95,6 +97,7 @@ I've also included an [AWS](#aws) section which may be helpful to those just get
 - [IAST](https://www.google.com/search?q=IAST+-+Interactive+Application+Security+Testing) - Interactive Application Security Testing -  minimal human involvement, RASP agent based.  Analyzes application behavior during the testing phase using RASP and DAST as an attacker
 - [IDOR](https://www.google.com/search?q=IDOR+Insecure+direct+object+reference) - Insecure Direct Object Reference
 - [IDS](https://www.google.com/search?q=IDS+-+Intrusion+Detection+System) - Intrusion Detection System
+- [IOA](https://www.google.com/search?q=ioa+indicator+of+attack) - Indicator of Attack
 - [IOC](https://www.google.com/search?q=IOC+-+Indicator+of+Compromise) - Indicator of Compromise
 - [IPS](https://www.google.com/search?q=IPS+-+Intrusion+Prevention+System) - Intrusion Prevention System
 
@@ -149,12 +152,14 @@ I've also included an [AWS](#aws) section which may be helpful to those just get
 - [SIRS](https://www.google.com/search?q=SIRS+-+Security+Incident+Response+Servcies) - Security Incident Response Servcies
 - [SIEM](https://www.google.com/search?q=SIEM+-+Security+Info+%26+Event+Management) - Security Info & Event Management
 - [SOAR](https://www.google.com/search?q=SOAR+-+security+orchestration+automation+response) - security orchestration automation response
+- [SPF](https://www.google.com/search?q=spf+sender+policy+framework) - Sender Policy Framework
 - [SRC](https://www.google.com/search?q=SRC+-+Security%2C+Risk+and+Compliance) - Security, Risk and Compliance
 - [SRI](https://www.google.com/search?q=SRI+-+SubResource+Integrity) - SubResource Integrity
 - [SSC](https://www.google.com/search?q=SSC+-+Security+Standards+Council) - Security Standards Council
 - [SSCM](https://www.google.com/search?q=SSCM+-+Secure+Software+Configuration+Management) - Secure Software Configuration Management
 - [SSRF](https://www.google.com/search?q=SSRF+-+Server+Side+Request+Forgery) - Server Side Request Forgery
 - [STRIDE](https://www.google.com/search?q=STRIDE+-+Spoofing%2C+Tampering%2C+Repudiation%2C+Information+disclosure%2C+Denial+of+service%2C+Elevation+of+Privilege) - Spoofing, Tampering, Repudiation, Information disclosure, Denial of service, Elevation of Privilege
+- [SWA](https://www.google.com/search?q=what+is+swa+secure+web+authentication) - Secure Web Authentication
 - [SWG](https://www.google.com/search?q=SWG+-+Secure+Web+Gateway) - Secure Web Gateway
 
 ## T
