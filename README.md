@@ -15,6 +15,7 @@ I've also included an [AWS](#aws) section which may be helpful to those just get
 - [AOC](https://www.google.com/search?q=aoc+-+attestationof+compliance) - Attestation Of Compliance
 - [APM](https://www.google.com/search?q=apm+application+performance+monitoring) - Application Performance Monitoring
 - [ARIN](https://www.google.com/search?q=arin+-+american+registry+for+internet+numbers) - American Registry for Internet Numbers
+- [ASOC](https://www.google.com/search?q=asoc+-+application+security+orchestration+and+correlation) - Application Security Orchestration and Correlation
 - [AST](https://www.google.com/search?q=AST+-+Application+Security+Testing) - Application Security Testing
 - *[ASV](https://www.google.com/search?q=ASV+-+Approved+Scanning+Vendor) - Approved Scanning Vendor
 - [ASVS](https://www.google.com/search?q=ASVS+-+Application+Security+Verification+Standard+(OWASP)) - Application Security Verification Standard (OWASP)
@@ -67,6 +68,7 @@ I've also included an [AWS](#aws) section which may be helpful to those just get
 
 ## E
 
+- [EASM](https://www.google.com/search?q=EASM+-+External+Attack+Surface+Management) - External Attack Surface Management
 - [EDR](https://www.google.com/search?q=EDR+-+Endpoint+Detection+and+Response) - Endpoint Detection and Response
 - [ERM](https://www.google.com/search?q=ERM+-+Enterprise+Risk+Management) - Enterprise Risk Management.  Used in the context of reporting.
 - [ESAPI](https://www.google.com/search?q=ESAPI+-+OWASP+Enterprise+Security+API) - OWASP Enterprise Security API
