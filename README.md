@@ -19,6 +19,7 @@ I've also included an [AWS](#aws) section which may be helpful to those just get
 - [AST](https://www.google.com/search?q=AST+-+Application+Security+Testing) - Application Security Testing
 - *[ASV](https://www.google.com/search?q=ASV+-+Approved+Scanning+Vendor) - Approved Scanning Vendor
 - [ASVS](https://www.google.com/search?q=ASVS+-+Application+Security+Verification+Standard+(OWASP)) - Application Security Verification Standard (OWASP)
+- [ATO](https://www.google.com/search?q=ato+account+takeover) - Account Takeover
 - [AVC](https://www.google.com/search?q=AST+-+Application+Vulnerability+Correlation) - Application Vulnerability Correlation
 
 ## B
