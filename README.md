@@ -123,6 +123,7 @@ I've also included an [AWS](#aws) section which may be helpful to those just get
 
 ## P
 
+- *[P2PE](https://www.google.com/search?q=p2pe+point+to+point-to-point+encryption) - Point-to-Point Encryption
 - [PA-DSS](https://www.google.com/search?q=PA-DSS+-+Processing+Applications+DSS) - Processing Applications DSS
 - [PAN](https://www.google.com/search?q=PAN+-+Primary+Account+Number) - Primary Account Number
 - [PAM](https://www.google.com/search?q=pam+privileged+access+management) Privileged Access Management
