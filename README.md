@@ -4,11 +4,15 @@ An alphabetical listing of (mostly) appSec-related acronyms, initialisms, and ab
 
 I've also included an [AWS](#aws) section which may be helpful to those just getting started with AWS.
 
-| [A](#A) | [B](#B) | [C](#C) | [D](#D) | [E](#E) | [F](#F)
+| [0-9](#0) | [A](#A) | [B](#B) | [C](#C) | [D](#D) | [E](#E) | [F](#F)
 | [G](#G) | [H](#H) | [I](#I) | J | K | L
 | [M](#M) | [N](#N) | [O](#O) | [P](#P) | [Q](#Q) | [R](#R)
 | [S](#S) | [T](#T) | [U](#U) | [V](#V) | [W](#W) | [X](#X)
 | Y | [Z](#Z) |
+
+## 0-9
+
+- *[3DS](https://www.google.com/search?q=3DS+-+3-D+Secure) - 3-D Secure
 
 ## A
 
@@ -44,6 +48,7 @@ I've also included an [AWS](#aws) section which may be helpful to those just get
 - [CIS](https://www.google.com/search?q=CIS+-+Center+for+Internet+Security)  - Center for Internet Security - develops CIS Benchmarks.
 - [CLASP](https://www.google.com/search?q=CLASP+-+Comprehensive+Lightweight+Application+Security+Process)  - Comprehensive, Lightweight Application Security Process
 - [CLI](https://www.google.com/search?q=CLI+-+Command+Line+Interpreter) - Command Line Interpreter.  aka Command Language Interpreter.
+- *[CNP](https://www.google.com/search?q=cnp+-+card+not+present) - Card Not Present
 - [CORS](https://www.google.com/search?q=cross-origin+resource+sharing) - Cross-Origin Resource Sharing
 - [CRLF](https://www.google.com/search?q=CRLF+-+Carriage+Return+(ASCII+13%2C+%5Cr)%2C+Line+Feed+(ASCII+10%2C+%5Cn)) - Carriage Return (ASCII 13, \r), Line Feed (ASCII 10, \n)
 - [CSA](https://www.google.com/search?q=CSA+-+Cloud+Security+Alliance)  - Cloud Security Alliance
