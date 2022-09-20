@@ -33,6 +33,7 @@ I've also included an [AWS](#aws) section which may be helpful to those just get
 
 ## C
 
+- [C-SCRM](https://www.google.com/search?q=C-SCRM+-+Cybersecurity+Supply+Chain+Risk+Management) - Cybersecurity Supply Chain Risk Management
 - [CAI](https://www.google.com/search?q=CAI+-+Consensus+Assessments+Initiative)  - Consensus Assessments Initiative
 - [CAIQ](https://www.google.com/search?q=CAIQ+-+Consensus+Assessments+Initiative+Questionnaire) - Consensus Assessments Initiative Questionnaire, from the Cloud Security Alliance
 - [CARTA](https://www.google.com/search?q=CARTA+-+Continuous+Adaptive+Risk+and+Trust+Assessment) - Continuous Adaptive Risk and Trust Assessment
@@ -53,6 +54,7 @@ I've also included an [AWS](#aws) section which may be helpful to those just get
 - [CRLF](https://www.google.com/search?q=CRLF+-+Carriage+Return+(ASCII+13%2C+%5Cr)%2C+Line+Feed+(ASCII+10%2C+%5Cn)) - Carriage Return (ASCII 13, \r), Line Feed (ASCII 10, \n)
 - [CSA](https://www.google.com/search?q=CSA+-+Cloud+Security+Alliance)  - Cloud Security Alliance
 - [CSF](https://www.google.com/search?q=cybersecurity+framework) - CyberSecurity Framework
+- [CSPM](https://www.google.com/search?q=CSPM+Cloud+Security+Posture+Management) - Cloud Security Posture Management
 - [CSRF](https://www.google.com/search?q=CSRF+-+Cross+Site+Request+Forgery)  - Cross Site Request Forgery. Pronounced "see serf"
 - [CTP](https://www.google.com/search?q=CTP+-+Comprehensive+Lightweight+Application+Security+Process) - Cloud Trust Protocol
 - [CVE](https://www.google.com/search?q=CVE+-+Mitres+Common+Vulnerability+Exposures)  - Mitres Common Vulnerability Exposures - for known vulnerabilities of systems, not the underlying flaw
@@ -78,6 +80,7 @@ I've also included an [AWS](#aws) section which may be helpful to those just get
 - [EDR](https://www.google.com/search?q=EDR+-+Endpoint+Detection+and+Response) - Endpoint Detection and Response
 - [ERM](https://www.google.com/search?q=ERM+-+Enterprise+Risk+Management) - Enterprise Risk Management.  Used in the context of reporting.
 - [ESAPI](https://www.google.com/search?q=ESAPI+-+OWASP+Enterprise+Security+API) - OWASP Enterprise Security API
+- [EVM](https://www.google.com/search?q=EMV+-+Europay+MasterCard+and+Visa) - Europay, MasterCard, and Visa
 
 ## F
 
@@ -164,8 +167,11 @@ I've also included an [AWS](#aws) section which may be helpful to those just get
 - [SPF](https://www.google.com/search?q=spf+sender+policy+framework) - Sender Policy Framework
 - [SRC](https://www.google.com/search?q=SRC+-+Security%2C+Risk+and+Compliance) - Security, Risk and Compliance
 - [SRI](https://www.google.com/search?q=SRI+-+SubResource+Integrity) - SubResource Integrity
+- [SRM](https://www.google.com/search?q=SRM+-+Security+and+Risk+Management) - Security and Risk Management
 - [SSC](https://www.google.com/search?q=SSC+-+Security+Standards+Council) - Security Standards Council
+- [SSE](https://www.google.com/search?q=SSE+-+Security+Service+Edge) - Security Service Edge
 - [SSCM](https://www.google.com/search?q=SSCM+-+Secure+Software+Configuration+Management) - Secure Software Configuration Management
+- [SSPM](https://www.google.com/search?q=SSPM+-+SaaS+Security+Posture+Management) - SaaS Security Posture Management
 - [SSRF](https://www.google.com/search?q=SSRF+-+Server+Side+Request+Forgery) - Server Side Request Forgery
 - [STRIDE](https://www.google.com/search?q=STRIDE+-+Spoofing%2C+Tampering%2C+Repudiation%2C+Information+disclosure%2C+Denial+of+service%2C+Elevation+of+Privilege) - Spoofing, Tampering, Repudiation, Information disclosure, Denial of service, Elevation of Privilege
 - [SWA](https://www.google.com/search?q=what+is+swa+secure+web+authentication) - Secure Web Authentication
@@ -190,6 +196,7 @@ I've also included an [AWS](#aws) section which may be helpful to those just get
 
 ## W
 
+- [WAAP](https://www.google.com/search?q=WAAP+-+Web+Application+and+API+Protection) - Web Application and API Protection
 - [WASC](https://www.google.com/search?q=WASC+-+Web+Application+Security+Consortium) - Web Application Security Consortium
 - [WAF](https://www.google.com/search?q=WAF+-+Web+Application+Firewall) - Web Application Firewall
 - [WCAG](https://www.google.com/search?q=WCAG+-+Web+Content+Accessibility+Guidelines) - Web Content Accessibility Guidelines
@@ -200,10 +207,11 @@ I've also included an [AWS](#aws) section which may be helpful to those just get
 ## X
 
 - [XSS](https://www.google.com/search?q=XSS+-+Cross+Site+scripting) - Cross Site scripting - can lead to an attacker gaining the same ability to do anything an application user can do with a web browser.  Use output encoding and escaping properly to prevent it.
+- [XDR](https://www.google.com/search?q=XDR+-+Extended+Detection+and+Response) - Extended Detection and Response
 
 ## Z
 
-- [ZP] - Zero Trust
+- [ZT](https://www.google.com/search?q=zt+zero+trust) - Zero Trust
 - [ZTNA](https://www.google.com/search?q=ZTNA+-+Zero+Trust+Network+Access) - Zero Trust Network Access
 
 ## AWS
