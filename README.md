@@ -185,7 +185,7 @@ I've also included an [AWS](#aws) section which may be helpful to those just get
 ## U
 
 - [UCF](https://www.google.com/search?q=UCF+-+Unified+Compliance+Framework) - Unified Compliance Framework
-- [UEBA](https://www.google.com/search?q=UEBA+-+User+and+Entity+Behavior+Analytics) - User and Entity Behavior Analytics
+- [UBA/UEBA](https://www.google.com/search?q=UEBA+-+User+and+Entity+Behavior+Analytics) - User (and Entity) Behavior Analytics
 - [UTM](https://www.google.com/search?q=UTM+-+Unified+Threat+Management) - Unified Threat Management
 
 ## V
