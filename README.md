@@ -20,7 +20,9 @@ I've also included an [AWS](#aws) section which may be helpful to those just get
 - [APM](https://www.google.com/search?q=apm+application+performance+monitoring) - Application Performance Monitoring
 - [ARIN](https://www.google.com/search?q=arin+-+american+registry+for+internet+numbers) - American Registry for Internet Numbers
 - [ASOC](https://www.google.com/search?q=asoc+-+application+security+orchestration+and+correlation) - Application Security Orchestration and Correlation
+- [ASPM](https://www.google.com/search?q=ASPM+-+Application+Security+Posture+Management) - Application Security Posture Management
 - [AST](https://www.google.com/search?q=AST+-+Application+Security+Testing) - Application Security Testing
+- [ASTO](https://www.google.com/search?q=ASTO+-+Application+Security+Testing-Orchestration) - Application Security Testing Orchestration
 - *[ASV](https://www.google.com/search?q=ASV+-+Approved+Scanning+Vendor) - Approved Scanning Vendor
 - [ASVS](https://www.google.com/search?q=ASVS+-+Application+Security+Verification+Standard+(OWASP)) - Application Security Verification Standard (OWASP)
 - [ATO](https://www.google.com/search?q=ato+account+takeover) - Account Takeover
@@ -72,6 +74,8 @@ I've also included an [AWS](#aws) section which may be helpful to those just get
 - [DPA](https://www.google.com/search?q=data+processing+agreement) - Data Processing Agreement
 - [Dox / Doxxing](https://www.google.com/search?q=dox+doxxing+definition) - researching and publishing private or identifiable information about a person or org with malicious intent.
 - [DREAD](https://www.google.com/search?q=DREAD+-+Damage+potential%2C+Reproducibility%2C+Exploitability%2C+Affected+Users%2C+Discoverability) - Damage potential, Reproducibility, Exploitability, Affected Users, Discoverability
+- [DSAR](https://www.google.com/search?q=DSAR+-+Data+Subject+Access+Request) - Data Subject Access Request
+- [DSPM](https://www.google.com/search?q=DSPM+-+Data+Security+Posture+Management) - Data Security Posture Management
 - [DSS](https://www.google.com/search?q=DSS+-+Data+Security+Standards) - Data Security Standards
 
 ## E
