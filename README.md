@@ -139,6 +139,7 @@ I've also included an [AWS](#aws) section which may be helpful to those just get
 - [PA-DSS](https://www.google.com/search?q=PA-DSS+-+Processing+Applications+DSS) - Processing Applications DSS
 - [PAN](https://www.google.com/search?q=PAN+-+Primary+Account+Number) - Primary Account Number
 - [PAM](https://www.google.com/search?q=pam+privileged+access+management) Privileged Access Management
+- [PASTA](https://www.google.com/search?q=PASTA+-+Attack+Simulation+and+Threat+Analysis) - Process for Attack Simulation and Threat Analysis
 - [PCI](https://www.google.com/search?q=PCI+-+Payment+Card+Industry) - Payment Card Industry
 - [PKI](https://www.google.com/search?q=PKI+-+Public+Key+Infrastructure) - Public Key Infrastructure
 - [PRNG](https://www.google.com/search?q=PRNG+-+Pseudo-Random+Number+Generator) - Pseudo-Random Number Generator
